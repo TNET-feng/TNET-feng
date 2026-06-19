@@ -2,4 +2,12 @@
 
 ##  E-mail
 
-[outlook](lbfliubaofeng@outlook.com)
+*[DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)
+
+
+[Microsoft Outlook](mailto:lbfliubaofeng@outlook.com)
+
+
+[Google Gmail](mailto:lbfliubaofeng@gmail)
+
+
