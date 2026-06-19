@@ -13,9 +13,11 @@
 
 ## Social Media 
 
-[WeChat]dadatomo
 
-[QQ]2982113910
+|应用|账号|
+|---------|
+|WeChat|dadatomo|
+|QQ|2982113910|
 
 
 ## Issue
