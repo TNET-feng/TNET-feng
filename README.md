@@ -13,8 +13,9 @@
 
 ## Social Media 
 
-[WeChat]:dadatomo
+[WeChat]dadatomo
 
+[QQ]2982113910
 
 
 ## Issue
