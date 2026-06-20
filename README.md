@@ -15,9 +15,9 @@ ___
 | WeChat | dadatomo | Priority |
 | QQ | 2982113910 | |
 | DingTalk | lbfliubaofeng | |
-| CSDN | @2302_76189356 | No Priority |
+| CSDN[^2] | @2302_76189356 | No Priority |
 
-
+[^2]:Chinese Software Developer Network
 
 ##  E-mail
 [DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)  <<Priority
