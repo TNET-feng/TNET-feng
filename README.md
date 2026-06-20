@@ -5,7 +5,8 @@ ___
 <p align="center">Chinese communication is preferred.If you don't use Chinese, please tell me your language</p>
 
 Chinese[^1]communication is preferred.
-If you don't use Chinese, please tell me your language
+
+[^1]:If you don't use Chinese, please tell me your language
 
 ---
 
