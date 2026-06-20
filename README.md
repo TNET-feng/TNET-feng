@@ -33,11 +33,10 @@ ___
 ## Issue(No Priority)
 [GitHub Issue](https://github.com/TNET-feng/ContactMe/issues)
 
-[Atomgit_Gitcode Issue](https://atomgit.com/TNET_feng/ContactMe/issues)
+[Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^3]
 
-[TEST [^3]](https://TEST.com)
 
-[^3]:TEST
+[^3]:Atomgit Gitcode Issue
 ___
 <p align="center">Thank you!😋</p>
 
