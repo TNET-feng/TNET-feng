@@ -9,7 +9,7 @@ ___
 
 ---
 
-## Social Media<<<Priority
+## Social Media <<<Priority
 | Application | Account_1 | Account_2 | Remark |
 | :---------: | :-------: | :-------: | :----: |
 | WeChat      | dadatomo |            | Priority |
@@ -31,7 +31,7 @@ ___
 
 
 
-## Issue<<<<No Priority
+## Issue <<<<No Priority
 [GitHub Issue](https://github.com/TNET-feng/ContactMe/issues)
 
 [Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^4]
