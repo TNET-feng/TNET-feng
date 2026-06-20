@@ -4,7 +4,7 @@ ___
 <p align="center">You can contact me through the following ways😘😘</p>
 <p align="center">Prioritize using Chinese for communication, but not using Chinese is also acceptable</p>
 
-___
+---
 
 ## Social Media(Priority)
 | Application | Account | Remark |
