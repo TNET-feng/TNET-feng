@@ -15,9 +15,10 @@ ___
 | WeChat      | dadatomo |            | Priority |
 | QQ          | 2982113910 | 2088128130 |          |
 | DingTalk | lbfliubaofeng |         |         |
-| CSDN[^2] | @2302_76189356 | TNET-峰 | No Priority |
+| CSDN[^2] | @2302_76189356 | TNET-峰[^3] | No Priority |
 
 [^2]:Chinese Software Developer Network
+[^3]:It is the same account as @2302_76189356
 
 ##  E-mail
 [DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)  <<Priority
@@ -33,10 +34,10 @@ ___
 ## Issue(No Priority)
 [GitHub Issue](https://github.com/TNET-feng/ContactMe/issues)
 
-[Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^3]
+[Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^4]
 
 
-[^3]:Atomgit Gitcode Issue
+[^4]:Atomgit Gitcode Issue
 ___
 <p align="center">Thank you!😋</p>
 
