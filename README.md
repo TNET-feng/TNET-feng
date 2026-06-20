@@ -2,7 +2,7 @@
 
 ##  E-mail
 
-[DingTalk Email<Priority](mailto:lbfliubaofeng@dingtalk.com)
+[DingTalk Email<<Priority](mailto:lbfliubaofeng@dingtalk.com)
 
 
 [Microsoft Outlook](mailto:lbfliubaofeng@outlook.com)
