@@ -14,12 +14,12 @@
 ## Social Media 
 
 
-| Application | Account |
-| :---------: | :-----: |
-| WeChat | dadatomo |
-| QQ | 2982113910 |
-| DingTalk | lbfliubaofeng |
-| CSDN | @2302_76189356 |
+| Application | Account | Remark |
+| :---------: | :-----: | :-----: |
+| WeChat | dadatomo | Priority |
+| QQ | 2982113910 | \ |
+| DingTalk | lbfliubaofeng | \ |
+| CSDN | @2302_76189356 | No Priority |
 
 ## Issue
 
