@@ -10,7 +10,7 @@
 ---
 
 ## Social Media <<<<Priority
-| Application | Account_1 | Account_2 | Remark | Link |
+| Application | Account_1 | Account_2 | Remark |  Link  |
 | :---------: | :-------: | :-------: | :----: | :----: |
 | WeChat      | dadatomo |            | Priority | 
 | QQ          | 2982113910 |         |          |
