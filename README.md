@@ -1,4 +1,4 @@
-<p align="center">Hello!👋👋👋</p>
+# <p align="center">Hello!👋👋👋</p>
 <p align="center">You can contact me through the following ways😘😘</p>
 
 > Chinese[^1]communication is preferred.
