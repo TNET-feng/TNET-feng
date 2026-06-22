@@ -31,7 +31,7 @@
 
 
 ## Issue <<<<No Priority
-[GitHub Issue](https://github.com/TNET-feng/ContactMe/issues)
+[GitHub Issue](https://github.com/TNET-feng/TNET-feng/issues)
 
 [Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^4]
 
