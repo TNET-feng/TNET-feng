@@ -12,9 +12,9 @@
 ## Social Media <<<<Priority
 | Application | Account_1 | Account_2 | Remark | Link |
 | :---------: | :-------: | :-------: | :----: | :---: |
-| WeChat      | dadatomo |            | Priority |
+| WeChat      | dadatomo |            | Priority | 
 | QQ          | 2982113910 |         |          |
-| DingTalk | lbfliubaofeng |         |         |
+| DingTalk | lbfliubaofeng |         |         | [Add](https://n.dingtalk.com/dingding/h5-profile/outside/index.html?fr_source=13&uidCipher=pG5EZ8CMk9UtK8XvIAFHvQ%3D%3D&cardToken=426b3dbb0a&profile=%40kgDOj0oPRQ) 
 | CSDN[^2] | @2302_76189356 | TNET-峰[^3] | Secondary | [Blog](https://blog.csdn.net/2302_76189356?type=blog) |
 
 [^2]:"Chinese Software Developer Network"Platform
