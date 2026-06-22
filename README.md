@@ -11,7 +11,7 @@
 
 ## Social Media <<<<Priority
 | Application | Account_1 | Account_2 | Remark | Link |
-| :---------: | :-------: | :-------: | :----: | :---: |
+| :---------: | :-------: | :-------: | :----: | :----: |
 | WeChat      | dadatomo |            | Priority | 
 | QQ          | 2982113910 |         |          |
 | DingTalk | lbfliubaofeng |         |         | [Add me](https://n.dingtalk.com/dingding/h5-profile/outside/index.html?fr_source=13&uidCipher=pG5EZ8CMk9UtK8XvIAFHvQ%3D%3D&cardToken=426b3dbb0a&profile=%40kgDOj0oPRQ) 
